@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pomo-timer-app/static/css/main.2f1dd2e1.css",
-    "main.js": "/pomo-timer-app/static/js/main.3300ac1d.js",
+    "main.css": "/pomo-timer-app/static/css/main.a1e0acd5.css",
+    "main.js": "/pomo-timer-app/static/js/main.a8dd64d8.js",
     "index.html": "/pomo-timer-app/index.html",
-    "main.2f1dd2e1.css.map": "/pomo-timer-app/static/css/main.2f1dd2e1.css.map",
-    "main.3300ac1d.js.map": "/pomo-timer-app/static/js/main.3300ac1d.js.map"
+    "main.a1e0acd5.css.map": "/pomo-timer-app/static/css/main.a1e0acd5.css.map",
+    "main.a8dd64d8.js.map": "/pomo-timer-app/static/js/main.a8dd64d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f1dd2e1.css",
-    "static/js/main.3300ac1d.js"
+    "static/css/main.a1e0acd5.css",
+    "static/js/main.a8dd64d8.js"
   ]
 }
