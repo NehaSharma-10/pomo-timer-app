@@ -15,3 +15,4 @@ The Categories component displays buttons for different timer categories.
 Click on a category button to start a timer session for that category.
 The active category button is highlighted.
 You can use this component to switch between timer categories.
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
