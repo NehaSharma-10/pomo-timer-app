@@ -6,10 +6,10 @@ The Timer App is a simple React application that helps you manage your time effe
 To run the Timer App on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
-   - git clone  https://github.com/NehaSharma-10/pomo-timer-app.git
+   - git clone https://github.com/NehaSharma-10/pomo-timer-app.git
    
 3. Navigate to the project directory:
-    -  cd timer-app
+    -  cd pomo-timer-app
    
 5. Install the project dependencies:
      - npm install
